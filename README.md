@@ -14,11 +14,11 @@
 
   <!-- GitHub Stats Badges with new color palette -->
   <p>
-    <img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/XdKing2?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/XdKing2/MALVIN-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/XdKing2/MALVIN-XD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/XdKing2/MALVIN-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/forks/XdKing1/SCORPION-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/XdKing1?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/XdKing1/SCORPION-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/XdKing1/SCORPION-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/XdKing2/SCORPION-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
 
   <!-- Hero GIF with updated border & hover effect -->
@@ -29,13 +29,13 @@
 </div>
 
 
-# MALVIN-XD Setup
+# SCORPION-MD Setup
 
 ### 🚀 Fork the Repository
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
+<a href="https://github.com/XdKing1/SCORPION-MD/fork"><img src="https://img.shields.io/github/forks/XdKing1/SCORPION-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20SCORPION-MD" alt="Fork SCORPION-MD" /></a>
 
 ---
 
@@ -75,28 +75,28 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </p>
 
 <p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/warning.gif?raw=true" width="15" />
+  <img src="https://github.com/XdKing1/SCORPION-MD/blob/main/assets/warning.gif?raw=true" width="15" />
   <em>Having connection issues? Try using a VPN.</em>
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/XdKing1/SCORPION-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
-<h2 align="center">🚀 Deploy MALVIN-XD Anywhere</h2>
+<h2 align="center">🚀 Deploy SCORPION-MD Anywhere</h2>
 
 <p align="center">Choose a platform and deploy instantly:</p>
 
 <div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
 
 🔵 <b>Heroku:</b>  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing1/SCORPION-MD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
 </a>
 
 💗 <b>Koyeb:</b>  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing3/MALVIN-XD" target="_blank">
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing2/SCORPION-ME" target="_blank">
   <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
 </a>
 
@@ -180,7 +180,7 @@ jobs:
 
 ## 📡 PANEL DEPLOYMENT OPTIONS
 
-> Get the latest MALVIN-XD bot zip file for panel-based deployment:
+> Get the latest SCORPION-MD bot zip file for panel-based deployment:
 
 <div align="left">
   <a href="https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip" target="_blank">
@@ -233,7 +233,7 @@ jobs:
 
 ## ⚠️ DISCLAIMER
 
-- ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
+- ❗ SCORPION-MD is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse may lead to account bans. Use responsibly.
 - 🛑 Cloning, redistributing, or modifying **without proper credit** is strictly prohibited.
 
@@ -245,7 +245,7 @@ jobs:
 
 ## 💡 CREDITS & CONTRIBUTORS
 
-> Built with ❤️ by **Malvin King**
+> Built with ❤️ by **SCORPION King**
 
 - 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
@@ -270,7 +270,7 @@ jobs:
 
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
-- ▶️ **YouTube: MalvinTech**  
+- ▶️ **YouTube: SCORPION Tech**  
   [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
 
 <p align="center">
